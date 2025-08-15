@@ -1,0 +1,40 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "1",
+          "name": "Rick Sanchez",
+          "status": "Alive",
+          "species": "Human",
+          "type": "Scientist",
+          "gender": "Male"
+        },
+        {
+          "id": "2",
+          "name": "Morty Smith",
+          "status": "Alive",
+          "species": "Human",
+          "type": "Teenager",
+          "gender": "Male"
+        },
+        {
+          "id": "3",
+          "name": "Beth Smith",
+          "status": "Alive",
+          "species": "Human",
+          "type": "Veterinarian",
+          "gender": "Female"
+        },
+        {
+          "id": "4",
+          "name": "Summer Smith",
+          "status": "Alive",
+          "species": "Human",
+          "type": "Teenager",
+          "gender": "Female"
+        }
+      ]
+    }
+  }
+}
