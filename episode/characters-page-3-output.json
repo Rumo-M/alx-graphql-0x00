@@ -1,0 +1,25 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "9",
+          "name": "Character 9",
+          "status": "Alive",
+          "species": "Species 9",
+          "type": "Type 9",
+          "gender": "Male"
+        },
+        {
+          "id": "10",
+          "name": "Character 10",
+          "status": "Alive",
+          "species": "Species 10",
+          "type": "Type 10",
+          "gender": "Female"
+        }
+        // Additional characters as needed
+      ]
+    }
+  }
+}
